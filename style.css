@@ -1,0 +1,9 @@
+body{
+  background:linear-gradient(90deg,blue,pink);
+  
+ }
+h1{
+  background:linear-gradient(90deg,yellow,red);
+  
+  color:blue;
+  }
